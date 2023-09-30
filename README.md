@@ -102,9 +102,9 @@ I was interested by changing the settings for looking at the queued messages and
 - ![Screenshot 1](RabbitMQ_Management_SS.png)
 - ![Screenshot 2](RabbitMQ_Management_SS2.png)
 
-## Terminal Screenshot
+## Terminal Screenshot (Updated)
 
-- ![Screenshot 1](all_terminals.png)
+- ![Screenshot 1](All_Terminals.png)
 
 ## Notes
 
